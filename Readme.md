@@ -1,7 +1,7 @@
 
-[![Latest Version](https://img.shields.io/github/v/release/alexjosesilva/vertical-logistica-java?include_prereleases)](https://github.com/alexjosesilva/vertical-logistica-java/releases/tag/1.0)
-[![License](https://img.shields.io/github/license/alexjosesilva/vertical-logistica-java)]([https://github.com/seu-usuario/seu-repositorio/blob/master/LICENSE](https://github.com/alexjosesilva/vertical-logistica-java/blob/master/LICENSE))
-[![codecov](https://codecov.io/gh/alexjosesilva/vertical-logistica-java/graph/badge.svg?token=GUWHI4VKML)](https://codecov.io/gh/alexjosesilva/vertical-logistica-java)
+[![Latest Version](https://img.shields.io/github/v/release/alexjosesilva/vertical_logistica_apachecamel?include_prereleases)](https://github.com/alexjosesilva/vertical_logistica_apachecamel/releases/tag/0.5)
+[![License](https://img.shields.io/github/license/alexjosesilva/vertical_logistica_apachecamel)]([https://github.com/seu-usuario/seu-repositorio/blob/master/LICENSE](https://github.com/alexjosesilva/vertical-logistica-java/blob/master/LICENSE))
+[![codecov](https://codecov.io/gh/alexjosesilva/vertical_logistica_apachecamel/graph/badge.svg?token=GUWHI4VKML)](https://codecov.io/gh/alexjosesilva/vertical-logistica-java)
 # Projeto de Integração com Apache Camel
 
 Este projeto é um exemplo de integração usando Apache Camel com Spring Boot. Ele lê um arquivo de texto contendo informações de pedidos, processa esses dados e retorna uma resposta em formato JSON.
